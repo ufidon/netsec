@@ -1,13 +1,14 @@
 # its454
 course materials and references
 
-## Reference textbooks
+## Reference textbooks & companions
 * [Computer Security: A Hands-on Approach, 2nd](https://www.handsonsecurity.net/)
+* [SEED Labs](https://seedsecuritylabs.org/)
 * [Network Security Architectures](https://www.oreilly.com/library/view/network-security-architectures/158705115X/)
 * [The Book of GNS3](https://www.oreilly.com/library/view/the-book-of/9781457189913/)
+* [Graphical Network Simulator](https://www.gns3.com/)
 
-
-## network devices
+## Network devices
 
 **Routers**
 * [Cisco 1800 Series Integrated Services Routers: CISCO 1841 V05](https://www.cisco.com/c/en/us/support/routers/1800-series-integrated-services-routers-isr/tsd-products-support-series-home.html)
