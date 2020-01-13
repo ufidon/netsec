@@ -12,8 +12,9 @@ online materials for its454
 * infrastructure assurance
 * assurance design & implementation
 
+
 ## Part 01 Assured Servers and services
 
+## Part 02 Network Security
 
-
-## Part 02 Assured Network
+## Part 03 Assured Network
