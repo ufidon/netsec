@@ -10,9 +10,14 @@ course materials and references
 
 ## Network devices
 
+**Security devices**
+* [<span style="color:gray">Cisco ASA 5510 Adaptive Security Appliance</span>](https://www.cisco.com/c/en/us/support/security/asa-5510-adaptive-security-appliance/model.html)
+* [<span style="color:gray">PIX 515/515E Guide</span>](https://www.cisco.com/en/US/docs/security/pix/pix70/hw/installation/guide/515.pdf)
+* [Configuring the PIX Firewall](https://www.cisco.com/en/US/docs/security/pix/pix50/configuration/guide/config.pdf)
+
 **Routers**
 * [Cisco 1800 Series Integrated Services Routers: CISCO 1841 V05](https://www.cisco.com/c/en/us/support/routers/1800-series-integrated-services-routers-isr/tsd-products-support-series-home.html)
-* [Cisco 2600 Series Modular Access Routers](https://www.cisco.com/c/en/us/products/collateral/routers/2600-series-multiservice-platforms/product_data_sheet0900aecd800fa5be.html)
+* [Cisco 2600 Series Modular Access Routers:CISCO 2621XM](https://www.cisco.com/c/en/us/products/collateral/routers/2600-series-multiservice-platforms/product_data_sheet0900aecd800fa5be.html)
 * [Cisco 2600 Series - Cisco IOS Release 12.2(2)XA](https://www.cisco.com/c/en/us/td/docs/ios/12_2/12_2x/12_2xa/release/notes/rn2600xa.html)
 * [Upgrading System Memory, Internal Flash, and Boot ROM in Cisco 2600 Series Routers](https://www.cisco.com/c/en/us/td/docs/routers/access/2600/hardware/installation/notes/2600mem.html)
 * [Cisco 2600 Series Routers Hardware Installation Guide](http://cna.mamk.fi/public/cisco/Ohjeet/Routers_Docs/Catalyst%202600/2600hig.pdf)
@@ -22,7 +27,7 @@ course materials and references
 **Switches**
 * [Cisco Catalyst 2960X-24PS-L Switch](https://www.cisco.com/c/en/us/support/switches/catalyst-2960x-24ps-l-switch/model.html)
 * [Cisco Catalyst 2960-X and 2960-XR Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/datasheet_c78-728232.html)
-* [Catalyst 2950 Desktop Switch Hardware Installation Guide](https://www.cisco.com/en/US/docs/switches/lan/catalyst2950/hardware/installation/legacy/hig2950_3.pdf)
+* [Catalyst 2950 Desktop Switch Hardware Installation Guide: WS-C2950T-24](https://www.cisco.com/en/US/docs/switches/lan/catalyst2950/hardware/installation/legacy/hig2950_3.pdf)
 * [SMC Network SMC8848M Installation Guide](http://na.smc.com/EOL_Product_Download/mn/MN_SMC88xxM_ING.pdf)
 
 **Wireless Routers**
