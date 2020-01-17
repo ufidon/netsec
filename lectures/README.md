@@ -50,6 +50,7 @@ online materials for its454
 * HTTP compression
   * [HTTP](https://en.wikipedia.org/wiki/Hypertext\_Transfer\_Protocol)
   * [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
+  * [LAMP install](https://www.ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/)
   * [HTTP compression](https://en.wikipedia.org/wiki/HTTP\_compression)
   * [How to enable Gzip compression in Apache](https://knackforge.com/blog/karalmax/how-enable-gzip-compression-apache)
   * [How To Optimize Your Site With GZIP Compression](https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/)
@@ -80,6 +81,9 @@ online materials for its454
   * [FTPS](https://en.wikipedia.org/wiki/FTPS)
   * [SFTP - SSH File Transfer Protocol](https://en.wikipedia.org/wiki/SSH\_File\_Transfer\_Protocol)
   * [Secure copy](https://en.wikipedia.org/wiki/Secure\_copy)
+  * [How to Setup FTP Server with VSFTPD on Ubuntu](https://linuxize.com/post/how-to-setup-ftp-server-with-vsftpd-on-ubuntu-18-04/)
+  * [How to Use Linux SFTP Command to Transfer Files](https://linuxize.com/post/how-to-use-linux-sftp-command-to-transfer-files/)
+  * [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 
 * Shared folder
   * [Create Shared Folders In Windows Server 2016 - Computer Management](https://www.c-sharpcorner.com/article/create-shared-folders-in-windows-server-2016-computer-management/)
