@@ -146,7 +146,7 @@ online materials for its454
 
 * _Authentication protocol_
   * [Authentication protocol](https://en.wikipedia.org/wiki/Authentication\_protocol)
-  * [RADIUS]([https://en.wikipedia.org/wiki/RADIUS)
+  * [RADIUS](https://en.wikipedia.org/wiki/RADIUS)
   * [TACACS](https://en.wikipedia.org/wiki/TACACS)
   * [tac plus](http://www.pro-bono-publico.de/projects/)
   * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos\_\(protocol\))
