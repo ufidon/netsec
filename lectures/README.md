@@ -148,6 +148,18 @@ online materials for its454
   * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos\_\(protocol\))
   * [Diameter](https://en.wikipedia.org/wiki/Diameter\_\(protocol\))
 
+* _Multi-factor authentication_
+  * [Multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor\_authentication)
+  * [Universal 2nd Factor](https://en.wikipedia.org/wiki/Universal\_2nd\_Factor)
+  * [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
+  * [FIDO Alliance](https://fidoalliance.org/)
+  * [awesome-webauthn](https://github.com/herrjemand/awesome-webauthn)
+
+* _Practices_
+  * [Windows server 2019 Step-By-Step: Setup Active Directory environment using PowerShell](https://social.technet.microsoft.com/wiki/contents/articles/52765.windows-server-2019-step-by-step-setup-active-directory-environment-using-powershell.aspx)
+  * [Windows Server 2019 – Active Directory Installation Beginners Guide](https://www.moderndeployment.com/windows-server-2019-active-directory-installation-beginners-guide/)
+  * [Windows server 2019 officcial tutorial](https://www.microsoft.com/en-us/cloud-platform/windows-server)
+
 
 ### Database
 
