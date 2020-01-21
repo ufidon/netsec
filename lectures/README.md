@@ -135,6 +135,9 @@ online materials for its454
   * [Integrated Windows Authentication](https://en.wikipedia.org/wiki/Integrated\_Windows\_Authentication)
   * [Security Assertion Markup Language](https://en.wikipedia.org/wiki/Security\_Assertion\_Markup\_Language)
   * [Single sign-on](https://en.wikipedia.org/wiki/Single\_sign-on)
+  * [OpenID](https://en.wikipedia.org/wiki/OpenID)
+  * [OpenID Connect](https://en.wikipedia.org/wiki/OpenID\_Connect)
+  * [OpenID foundation](https://openid.net/)
   * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight\_Directory\_Access\_Protocol)
   * [Active Directory](https://en.wikipedia.org/wiki/Active\_Directory)
   * [List of LDAP software](https://en.wikipedia.org/wiki/List\_of_\LDAP\_software)
@@ -145,7 +148,9 @@ online materials for its454
   * [Authentication protocol](https://en.wikipedia.org/wiki/Authentication\_protocol)
   * [RADIUS]([https://en.wikipedia.org/wiki/RADIUS)
   * [TACACS](https://en.wikipedia.org/wiki/TACACS)
+  * [tac plus](http://www.pro-bono-publico.de/projects/)
   * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos\_\(protocol\))
+  * [KERBEROS](http://web.mit.edu/KERBEROS/)
   * [Diameter](https://en.wikipedia.org/wiki/Diameter\_\(protocol\))
 
 * _Multi-factor authentication_
@@ -154,11 +159,24 @@ online materials for its454
   * [WebAuthn](https://en.wikipedia.org/wiki/WebAuthn)
   * [FIDO Alliance](https://fidoalliance.org/)
   * [awesome-webauthn](https://github.com/herrjemand/awesome-webauthn)
+  * [StrongKey FIDO open-source server](https://github.com/StrongKey)
+  * [Yubico open-source FIDO server](https://www.yubico.com/products/services-software/open-source-servers/)
 
 * _Practices_
-  * [Windows server 2019 Step-By-Step: Setup Active Directory environment using PowerShell](https://social.technet.microsoft.com/wiki/contents/articles/52765.windows-server-2019-step-by-step-setup-active-directory-environment-using-powershell.aspx)
-  * [Windows Server 2019 – Active Directory Installation Beginners Guide](https://www.moderndeployment.com/windows-server-2019-active-directory-installation-beginners-guide/)
-  * [Windows server 2019 officcial tutorial](https://www.microsoft.com/en-us/cloud-platform/windows-server)
+  * _Windows_
+    * [Windows server 2019 Step-By-Step: Setup Active Directory environment using PowerShell](https://social.technet.microsoft.com/wiki/contents/articles/52765.windows-server-2019-step-by-step-setup-active-directory-environment-using-powershell.aspx)
+    * [Windows Server 2019 – Active Directory Installation Beginners Guide](https://www.moderndeployment.com/windows-server-2019-active-directory-installation-beginners-guide/)
+    * [Installing Configuring Troubleshooting Windows Server 2019 NPS as RADIUS](https://www.virtualizationhowto.com/2018/12/installing-configuring-troubleshooting-windows-server-2019-nps-as-radius/)
+    * [Network Policy Server \(NPS\)](https://docs.microsoft.com/en-us/windows-server/networking/technologies/nps/nps-top)
+    * [Windows server 2019 officcial tutorial](https://www.microsoft.com/en-us/cloud-platform/windows-server)
+  * _Linux_
+    * [The benefits of using RADIUS over LDAP](https://opensource.com/business/15/4/benefits-using-radius-over-ldap)
+    * [Install and Configure FreeRADIUS on Ubuntu 18.04 with MySQL](https://draculaservers.com/tutorials/freeradius-ubuntu-18-04-mysql/)
+    * [FreeRADIUS](https://freeradius.org/)
+    * [FreeRADIUS on Github](https://github.com/FreeRADIUS)
+    * [daloRADIUS](http://daloradius.com/)
+    * [daloRADIUS on GitHub](https://github.com/lirantal/daloradius)
+    * [How to install Kerberos KDC Server and Client on Ubuntu 18.04](https://linuxconfig.org/how-to-install-kerberos-kdc-server-and-client-on-ubuntu-18-04)
 
 
 ### Database
