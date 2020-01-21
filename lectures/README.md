@@ -97,10 +97,57 @@ online materials for its454
   * [How to create a private torrent using qBittorrent](https://www.ghacks.net/2019/09/20/how-to-create-a-private-torrent-using-qbittorrent/)
 
 ### Communication and collabration services
-eMail server
+* _Overview_
+  * [Computer-mediated communication](https://en.wikipedia.org/wiki/Computer-mediated\_communication)
+  * [Email](https://en.wikipedia.org/wiki/Email)
+  * [Webmail](https://en.wikipedia.org/wiki/Webmail)
+  * [Comparison of webmail providers](https://en.wikipedia.org/wiki/Comparison\_of\_webmail\_providers)
+  * [List of mail server software](https://en.wikipedia.org/wiki/List\_of\_mail\_server\_software)
+  * [Comparison of mail servers](https://en.wikipedia.org/wiki/Comparison\_of\_mail\_servers)
+  * [Top 20 Best Linux Mail Server Software and Solutions in 2020](https://www.ubuntupit.com/best-linux-mail-server-software-and-solutions/)
+  
+* _Open source mail servers_
+  * [iRedMail - Open Source Mail Server Solution](https://www.iredmail.org/)
+  * [hMailServer](https://www.hmailserver.com/)
+* _Open source webmails_
+  * [roundcube](https://roundcube.net/)
+
+* _email security_
+  * [Email spam](https://en.wikipedia.org/wiki/Email\_spam)
+  * [Email spoofing](https://en.wikipedia.org/wiki/Email_spoofing)
+  * [Email bomb](https://en.wikipedia.org/wiki/Email\_bomb)
+  * [S/MIME](https://en.wikipedia.org/wiki/S/MIME)
+  * [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty\_Good\_Privacy)
+  * [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU\_Privacy\_Guard)
+  * [Email encryption](https://en.wikipedia.org/wiki/Email\_encryption)
+  * [OpenPGP](https://www.openpgp.org/)
+  * [Mailvelope](https://www.mailvelope.com/en/)
+  * [SSL, TLS, and STARTTLS](https://www.fastmail.com/help/technical/ssltlsstarttls.html)
+  * [Opportunistic TLS, StartSSL](https://en.wikipedia.org/wiki/Opportunistic\_TLS)
+  * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport\_Layer\_Security)
 
 ### User management
-User authentication and authorization
+* _User authentication and authorization_
+  * [AAA -  Authentication, Authorization and Accounting](https://en.wikipedia.org/wiki/AAA\_\(computer\_security\))
+  * [Access control](https://en.wikipedia.org/wiki/Access\_control)
+  * [Authentication](https://en.wikipedia.org/wiki/Authentication)
+  * [Pluggable authentication module](https://en.wikipedia.org/wiki/Pluggable\_authentication\_module)
+  * [Integrated Windows Authentication](https://en.wikipedia.org/wiki/Integrated\_Windows\_Authentication)
+  * [Security Assertion Markup Language](https://en.wikipedia.org/wiki/Security\_Assertion\_Markup\_Language)
+  * [Single sign-on](https://en.wikipedia.org/wiki/Single\_sign-on)
+  * [Lightweight Directory Access Protocol](https://en.wikipedia.org/wiki/Lightweight\_Directory\_Access\_Protocol)
+  * [Active Directory](https://en.wikipedia.org/wiki/Active\_Directory)
+  * [List of LDAP software](https://en.wikipedia.org/wiki/List\_of_\LDAP\_software)
+  * [Authorization](https://en.wikipedia.org/wiki/Authorization)
+  * [Authentication server](https://en.wikipedia.org/wiki/Authentication\_server)
+
+* _Authentication protocol_
+  * [Authentication protocol](https://en.wikipedia.org/wiki/Authentication\_protocol)
+  * [RADIUS]([https://en.wikipedia.org/wiki/RADIUS)
+  * [TACACS](https://en.wikipedia.org/wiki/TACACS)
+  * [Kerberos (protocol)](https://en.wikipedia.org/wiki/Kerberos\_\(protocol\))
+  * [Diameter](https://en.wikipedia.org/wiki/Diameter\_\(protocol\))
+
 
 ### Database
 
