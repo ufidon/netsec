@@ -3,15 +3,24 @@ online materials for its454
 
 
 ## Part 00: Overview
-* operating sytem assurance
-* software assurance
-* data and database assurance
-* network assurance
-* hardware assurance
-* workforce assurance
-* infrastructure assurance
-* assurance design & implementation
+* _Topics_
+  * operating sytem assurance
+  * software assurance
+  * data and database assurance
+  * network assurance
+  * hardware assurance
+  * workforce assurance
+  * infrastructure assurance
+  * assurance design & implementation
 
+* _Overview_
+  * [Information security](https://en.wikipedia.org/wiki/Information\_security)
+  * [Computer security](https://en.wikipedia.org/wiki/Computer\_security)
+  * [Outline of computer security](https://en.wikipedia.org/wiki/Outline\_of\_computer\_security)
+  * [Cyber security standards](https://en.wikipedia.org/wiki/Cyber\_security\_standards)
+
+* _Extension_
+  * [Security](https://en.wikipedia.org/wiki/Security)
 
 ## Part 01 Assured Servers and services
 ### Remote administration & management
@@ -192,11 +201,36 @@ online materials for its454
 
 
 ## Part 02 Network Security
+### Reference textbook
+* [Computer & Internet Security](https://www.handsonsecurity.net/)
+
+### Reference labs
+* [SEED security Labs](https://seedsecuritylabs.org/)
 
 ### Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
 ## Part 03 Assured Network
+* _Overview_
+  * [Network security](https://en.wikipedia.org/wiki/Network\_security)
+  * [Internet security](https://en.wikipedia.org/wiki/Internet\_security)
+
+
+### Network protocol layer hardenning
+* _Network layers_
+  * [Network OSI model](https://en.wikipedia.org/wiki/OSI\_model)
+  * [TCP/IP model](https://en.wikipedia.org/wiki/Internet\_protocol\_suite)
+
+* _Physical layer_
+  * [Physical layer](https://en.wikipedia.org/wiki/Physical\_layer)
+  * [Physical Layer Security](https://www.sciencedirect.com/topics/computer-science/physical-layer-security)
+
+* _Data link layer_
+  * [Data link layer](https://en.wikipedia.org/wiki/Data\_link\_layer)
+
+### Network firewall
+
+### Network IDS & IPS
 
 ## Part 04 System security assessment
