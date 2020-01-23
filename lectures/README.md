@@ -30,9 +30,13 @@ online materials for its454
   * [How does SSH Work?](https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work)
   * [How to Set Up SSH Keys](https://www.hostinger.com/tutorials/ssh/how-to-set-up-ssh-keys)
   * [Comparison of SSH clients](https://en.wikipedia.org/wiki/Comparison\_of\_SSH\_clients)
-  * [Ubuntu SSH](https://help.ubuntu.com/community/SSH)
+  * [Ubuntu OpenSSH-server](https://help.ubuntu.com/lts/serverguide/openssh-server.html)
+  * [Ubuntu OpenSSH](https://help.ubuntu.com/community/SSH)
+  * [Ubuntu OpenSSH Advanced](https://help.ubuntu.com/community/SSH/OpenSSH/Advanced?action=show&redirect=AdvancedOpenSSH)
   * [Installation of OpenSSH For Windows Server 2019 and Windows 10](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh\_install\_firstuse)
   * [OpenSSH](https://www.openssh.com/)
+  * [OpenSSH manual](https://www.openssh.com/manual.html)
+  * [Wikibook on OpenSSH](https://en.wikibooks.org/wiki/OpenSSH)
 
 * Remote desktop
   * [Windows Server 2019 RDP / Remote Desktop tutorial](https://www.transip.eu/knowledgebase/entry/1759-windows-server-remote-desktop-tutorial/)
