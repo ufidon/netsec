@@ -7,6 +7,7 @@ course materials and references
 * [Network Security Architectures](https://www.oreilly.com/library/view/network-security-architectures/158705115X/)
 * [The Book of GNS3](https://www.oreilly.com/library/view/the-book-of/9781457189913/)
 * [Graphical Network Simulator](https://www.gns3.com/)
+* [LabsProject: Labs for IT professionals. Choose your platform VIRL, EVE-NG, GNS3](https://www.labsproject.net/)
 
 ## Network devices
 
