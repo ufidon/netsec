@@ -46,6 +46,7 @@ online materials for its454
   * [OpenSSH](https://www.openssh.com/)
   * [OpenSSH manual](https://www.openssh.com/manual.html)
   * [Wikibook on OpenSSH](https://en.wikibooks.org/wiki/OpenSSH)
+  * [OpenSSH Server Configuration for Windows 10 1809 and Server 2019](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_server_configuration)
 
 * Remote desktop
   * [Windows Server 2019 RDP / Remote Desktop tutorial](https://www.transip.eu/knowledgebase/entry/1759-windows-server-remote-desktop-tutorial/)
