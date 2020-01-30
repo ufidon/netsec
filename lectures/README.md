@@ -47,6 +47,10 @@ online materials for its454
   * [OpenSSH manual](https://www.openssh.com/manual.html)
   * [Wikibook on OpenSSH](https://en.wikibooks.org/wiki/OpenSSH)
   * [OpenSSH Server Configuration for Windows 10 1809 and Server 2019](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_server_configuration)
+  * [OpenSSH Key Management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+  * [OpenSSH on windows PubKey Auth not working](https://github.com/PowerShell/Win32-OpenSSH/issues/1306)
+  * [OpenSSH utility scripts to fix file permissions](https://github.com/PowerShell/Win32-OpenSSH/wiki/OpenSSH-utility-scripts-to-fix-file-permissions)
+  * [OpenSSHUtils](https://www.powershellgallery.com/packages/OpenSSHUtils)
 
 * Remote desktop
   * [Windows Server 2019 RDP / Remote Desktop tutorial](https://www.transip.eu/knowledgebase/entry/1759-windows-server-remote-desktop-tutorial/)
