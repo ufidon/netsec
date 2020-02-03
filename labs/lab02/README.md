@@ -24,6 +24,7 @@ _References_
 * [Password-less Remote Desktop Protocol (RDP) Session Hijacking](https://niiconsulting.com/checkmate/2018/09/passwordless-rdp-session-hijacking/)
 * [TigerVNC](https://tigervnc.org/)
 * [Ultra VNC](https://www.uvnc.com/)
+* [Installing a VNC server on Linux (Ubuntu Mate)](http://simostro.synology.me/simone/2018/02/09/installing-a-vnc-server-on-linux-ubuntu-mate/)
 * [VirtualGL](https://virtualgl.org/)
 * [Remmina](https://remmina.org/)
 * [Tunnel RDP through SSH & PuTTY](https://www.saotn.org/tunnel-rdp-through-ssh/)
