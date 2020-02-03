@@ -18,6 +18,9 @@ online materials for its454
   * [Computer security](https://en.wikipedia.org/wiki/Computer\_security)
   * [Outline of computer security](https://en.wikipedia.org/wiki/Outline\_of\_computer\_security)
   * [Cyber security standards](https://en.wikipedia.org/wiki/Cyber\_security\_standards)
+  * [Common Vulnerabilities and Exposures](https://en.wikipedia.org/wiki/Common\_Vulnerabilities\_and\_Exposures)
+    * [CVE List Home](https://cve.mitre.org/cve/)
+    * [NATIONAL VULNERABILITY DATABASE](https://nvd.nist.gov/)
 
 * _Extension_
   * [Security](https://en.wikipedia.org/wiki/Security)
@@ -198,12 +201,64 @@ online materials for its454
 
 
 ### Database
+* _Concepts_
+  * [Database](https://en.wikipedia.org/wiki/Database)
+  * [Database administration](https://en.wikipedia.org/wiki/Database\_administration)
+  * [Relational database](https://en.wikipedia.org/wiki/Relational\_database)
+  * [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+    * [Document-oriented database](https://en.wikipedia.org/wiki/Document-oriented\_database)
+    * [Graph database](https://en.wikipedia.org/wiki/Graph\_database)
+  * [NewSQL](https://en.wikipedia.org/wiki/NewSQL)
+  * [Object database](https://en.wikipedia.org/wiki/Object\_database)
+  * [In-memory database](https://en.wikipedia.org/wiki/In-memory\_database)
+
+* _SQL database_
+  * [Comparison of relational database management systems](https://en.wikipedia.org/wiki/Comparison\_of\_relational\_database\_management\_systems)
+  * [MySQL](https://en.wikipedia.org/wiki/MySQL)
+    * [MySQL community version](https://dev.mysql.com/downloads/)
+    * [MySQL Workbench](https://www.mysql.com/products/workbench/)
+    * [phpMyAdmin](https://www.phpmyadmin.net/)
+  * [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
+    * [PostgreSQL official website](https://www.postgresql.org/)
+    * [Install PostgreSQL for Ubuntu](https://www.postgresql.org/download/linux/ubuntu/)
+    * [PostgreSQL Administration](https://www.postgresql.org/docs/12/admin.html)
+
+* _NoSQL database_
+  * [MongoDB](https://en.wikipedia.org/wiki/MongoDB)
+    * [MongoDB OW](https://www.mongodb.com/)
+  * [Apache CouchDB](https://en.wikipedia.org/wiki/Apache\_CouchDB)
+    * [CouchDB OW](https://couchdb.apache.org/)
+
 
 ### Host firewall
+* _Concepts_
+  * [Firewall](https://en.wikipedia.org/wiki/Firewall\_\(computing\))
+  * [Comparison of firewalls](https://en.wikipedia.org/wiki/Comparison\_of\_firewalls)
+  * [Router](https://en.wikipedia.org/wiki/Router\_\(computing\))
+  * [List of router firmware projects](https://en.wikipedia.org/wiki/List\_of\_router\_firmware\_projects)
+  * [Comparison of router software projects](https://en.wikipedia.org/wiki/Comparison\_of\_router\_software\_projects)
+
+* _Firewall & routers_
+  * [ufw - Uncomplicated Firewall](https://en.wikipedia.org/wiki/Uncomplicated\_Firewall)
+    * [ufw - program for managing a netfilter firewall](https://wiki.ubuntu.com/UncomplicatedFirewall)
+    * [gufw](https://gufw.org/)
+  * [PfSense](https://en.wikipedia.org/wiki/PfSense)
+    * [PfSense OW](https://www.pfsense.org/)
+  * [IPFire](https://en.wikipedia.org/wiki/IPFire)
+    * [IPFire OW](https://www.ipfire.org/)
 
 ### Host IDS & IPS
+* _concepts_
+  * [Intrusion detection system](https://en.wikipedia.org/wiki/Intrusion\_detection\_system)
+  * [Host-based intrusion detection system](https://en.wikipedia.org/wiki/Host-based\_intrusion\_detection\_system)
+  * [Intrusion detection system evasion techniques](https://en.wikipedia.org/wiki/Intrusion\_detection\_system\_evasion\_techniques)
+  * [Wireless intrusion prevention system](https://en.wikipedia.org/wiki/Wireless\_intrusion\_prevention\_system)
 
-
+* _IDS & IPS_
+  * [Snort](https://en.wikipedia.org/wiki/Snort\_\(software\))
+    * [Snort OW](https://www.snort.org/)
+  * [Zeek](https://en.wikipedia.org/wiki/Zeek)
+    * [Zeek OW](https://www.zeek.org/)
 
 ## Part 02 Network Security
 ### Reference textbook
@@ -237,5 +292,11 @@ online materials for its454
 ### Network firewall
 
 ### Network IDS & IPS
+
+### SDN
+* _concepts_
+  * [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined\_networking)
+* _SDN_
+  * [Ryu](https://ryu.readthedocs.io/en/latest/getting_started.html)
 
 ## Part 04 System security assessment
