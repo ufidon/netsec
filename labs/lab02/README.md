@@ -33,5 +33,5 @@ _References_
 * [How to Configure SSH Tunnel in Remote Desktop Manager](https://blog.devolutions.net/2016/10/how-to-configure-ssh-tunnel-in-remote-desktop-manager)
 * [how to tunnel Windows Remote Desktop through ssh using a linux box?](https://serverfault.com/questions/200249/how-to-tunnel-windows-remote-desktop-through-ssh-using-a-linux-box)
 * [SSH Tunneling for Windows: Protecting RDP using Windows 10 Fall Creators Update](https://blog.netnerds.net/2017/12/updated-ssh-tunneling-for-windows-people-protecting-remote-desktop/)
-
-**Youtube Videos** 
+* [How To Switch Between TTYs Without Using Function Keys In Linux?](https://www.ostechnix.com/how-to-switch-between-ttys-without-using-function-keys-in-linux/)
+* [how to kill the tty in unix](https://stackoverflow.com/questions/15195470/how-to-kill-the-tty-in-unix)
