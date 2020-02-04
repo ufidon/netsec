@@ -25,6 +25,8 @@ _References_
 * [TigerVNC](https://tigervnc.org/)
 * [Ultra VNC](https://www.uvnc.com/)
 * [Installing a VNC server on Linux (Ubuntu Mate)](http://simostro.synology.me/simone/2018/02/09/installing-a-vnc-server-on-linux-ubuntu-mate/)
+* [Some Common Ubuntu Display Managers and How to Switch Between Them](https://vitux.com/some-common-ubuntu-display-managers-and-how-to-switch-between-them/)
+* [How do I switch from LightDM to GDM?](https://askubuntu.com/questions/152256/how-do-i-switch-from-lightdm-to-gdm)
 * [VirtualGL](https://virtualgl.org/)
 * [Remmina](https://remmina.org/)
 * [Tunnel RDP through SSH & PuTTY](https://www.saotn.org/tunnel-rdp-through-ssh/)
