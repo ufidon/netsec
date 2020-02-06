@@ -66,6 +66,10 @@ online materials for its454
   * [Step by Step Windows 2019 Remote Desktop Services – Using the GUI](https://msfreaks.wordpress.com/2018/10/06/step-by-step-windows-2019-remote-desktop-services-using-the-gui/)
   * [Installing the Remote Desktop Session Host role service on Windows Server without the Connection Broker role service](https://support.microsoft.com/en-us/help/2833839/guidelines-for-installing-the-remote-desktop-session-host-role-service)
   * [Remote Desktop Protocol](https://en.wikipedia.org/wiki/Remote\_Desktop\_Protocol)
+  * [Virtual Network Computing](https://en.wikipedia.org/wiki/Virtual\_Network\_Computing)
+  * [RFB - remote framebuffer protocol](https://en.wikipedia.org/wiki/RFB\_protocol)
+  * [Ultra VNC for Win](https://www.uvnc.com/)
+  * [TightVNC for Linux](https://en.wikipedia.org/wiki/TightVNC)
 
 ### Web services
 * HTTP compression
