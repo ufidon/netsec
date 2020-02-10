@@ -71,6 +71,8 @@ online materials for its454
   * [RFB - remote framebuffer protocol](https://en.wikipedia.org/wiki/RFB\_protocol)
   * [Ultra VNC for Win](https://www.uvnc.com/)
   * [TightVNC for Linux](https://en.wikipedia.org/wiki/TightVNC)
+  * [NX technology](https://en.wikipedia.org/wiki/NX\_technology)
+    * [X2Go](https://wiki.x2go.org/doku.php/start)
 
 ### Web services
 * HTTP compression
