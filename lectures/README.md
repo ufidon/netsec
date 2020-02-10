@@ -26,6 +26,7 @@ online materials for its454
   * [Security](https://en.wikipedia.org/wiki/Security)
 
 ## Part 01 Assured Servers and services
+* [Server world](https://www.server-world.info/en/)
 ### Remote administration & management
 * _Concepts_
   * [Remote administration](https://en.wikipedia.org/wiki/Remote_administration)
@@ -76,11 +77,13 @@ online materials for its454
   * [HTTP](https://en.wikipedia.org/wiki/Hypertext\_Transfer\_Protocol)
   * [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
   * [LAMP install](https://www.ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/)
+  * [Apache2 : Use Perl Scripts](https://www.server-world.info/en/note?os=Ubuntu_18.04&p=httpd&f=2)
   * [HTTP compression](https://en.wikipedia.org/wiki/HTTP\_compression)
   * [How to enable Gzip compression in Apache](https://knackforge.com/blog/karalmax/how-enable-gzip-compression-apache)
   * [How To Optimize Your Site With GZIP Compression](https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/)
   * [Apache Module mod_deflate](https://httpd.apache.org/docs/2.4/mod/mod_deflate.html)
-
+  * [XAMPP](https://www.apachefriends.org/index.html)
+  * [XAMPP Add-ons](https://www.apachefriends.org/add-ons.html)
 * HTTPS setup
   * [SSL/TLS Strong Encryption: How-To for Apache](https://httpd.apache.org/docs/2.4/ssl/ssl\_howto.html)
   * [IIS 10: Create CSR and Install SSL Certificate](https://www.digicert.com/csr-creation-ssl-installation-iis-10.htm)
@@ -91,6 +94,17 @@ online materials for its454
   * [certbot](https://certbot.eff.org/)
   * [Install Let’s Encrypt with IIS on Windows Server 2019](https://www.snel.com/support/how-to-install-lets-encrypt-with-iis-on-windows-server-2019/)
   * [IIS : SSL/TLS Settings](https://www.server-world.info/en/note?os=Windows_Server_2019&p=iis&f=5)
+
+* [Web frameworks and applications]
+  * [Web framework](https://en.wikipedia.org/wiki/Web\_framework)
+  * [Comparison of web frameworks](https://en.wikipedia.org/wiki/Comparison\_of\_web\_frameworks)
+  * [Web application](https://en.wikipedia.org/wiki/Web\_application)
+  * [List of free and open-source web applications](https://en.wikipedia.org/wiki/List\_of\_free\_and\_open-source\_web\_applications)
+  * [Web API](https://en.wikipedia.org/wiki/Web\_API)
+  * [REST](https://en.wikipedia.org/wiki/Representational\_state\_transfer)
+  * [OpenCart](https://en.wikipedia.org/wiki/OpenCart)
+    * [OpenCart OW](https://www.opencart.com/)
+    * [Install OpenCart On Ubuntu 18.04](https://cloudcone.com/docs/article/install-opencart-on-ubuntu-18-04-server/)
 
 ### Data services
 * File sharing
@@ -109,6 +123,9 @@ online materials for its454
   * [How to Setup FTP Server with VSFTPD on Ubuntu](https://linuxize.com/post/how-to-setup-ftp-server-with-vsftpd-on-ubuntu-18-04/)
   * [How to Use Linux SFTP Command to Transfer Files](https://linuxize.com/post/how-to-use-linux-sftp-command-to-transfer-files/)
   * [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+  * [FileZilla OW](https://filezilla-project.org/)
+  * [Install and configure an FTP server with PowerShell](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
+  * [FTP server on Windows 2019](https://www.server-world.info/en/note?os=Windows\_Server\_2019&p=ftp&f=1)
 
 * Shared folder
   * [Create Shared Folders In Windows Server 2016 - Computer Management](https://www.c-sharpcorner.com/article/create-shared-folders-in-windows-server-2016-computer-management/)
