@@ -95,7 +95,7 @@ online materials for its454
   * [Install Let’s Encrypt with IIS on Windows Server 2019](https://www.snel.com/support/how-to-install-lets-encrypt-with-iis-on-windows-server-2019/)
   * [IIS : SSL/TLS Settings](https://www.server-world.info/en/note?os=Windows_Server_2019&p=iis&f=5)
 
-* [Web frameworks and applications]
+* Web frameworks and applications
   * [Web framework](https://en.wikipedia.org/wiki/Web\_framework)
   * [Comparison of web frameworks](https://en.wikipedia.org/wiki/Comparison\_of\_web\_frameworks)
   * [Web application](https://en.wikipedia.org/wiki/Web\_application)
