@@ -75,7 +75,14 @@ online materials for its454
     * [X2Go](https://wiki.x2go.org/doku.php/start)
 
 ### Web services
-* HTTP compression
+* _Concepts_
+  * [Web service](https://en.wikipedia.org/wiki/Web\_service)
+  * [List of web service specifications](https://en.wikipedia.org/wiki/List\_of\_web\_service\_specifications)
+  * [List of web service protocols](https://en.wikipedia.org/wiki/List\_of\_web\_service\_protocols)
+  * [List of web service frameworks](https://en.wikipedia.org/wiki/List\_of\_web\_service\_frameworks)
+  * [World Wide Web](https://en.wikipedia.org/wiki/World\_Wide\_Web)
+  * [Web hosting service](https://en.wikipedia.org/wiki/Web\_hosting\_service)
+* HTTP
   * [HTTP](https://en.wikipedia.org/wiki/Hypertext\_Transfer\_Protocol)
   * [HTTPS](https://en.wikipedia.org/wiki/HTTPS)
   * [LAMP install](https://www.ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/)
@@ -86,6 +93,20 @@ online materials for its454
   * [Apache Module mod_deflate](https://httpd.apache.org/docs/2.4/mod/mod_deflate.html)
   * [XAMPP](https://www.apachefriends.org/index.html)
   * [XAMPP Add-ons](https://www.apachefriends.org/add-ons.html)
+
+* Web servers
+  * [Web server](https://en.wikipedia.org/wiki/Web\_server)
+  * [Comparison of web server software](https://en.wikipedia.org/wiki/Comparison\_of\_web\_server\_software)
+  * [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache\_HTTP\_Server)
+    * [Apache HTTP Server OW](https://httpd.apache.org/)
+    * [Apache HTTP Server documentation](https://httpd.apache.org/docs/2.4/)
+    * [VirtualHost Examples](https://httpd.apache.org/docs/2.4/vhosts/examples.html)
+  * [Nginx](https://en.wikipedia.org/wiki/Nginx)
+    * [Nginx OW](https://nginx.org/)
+  * [IIS](https://en.wikipedia.org/wiki/Internet\_Information\_Services)
+    * [IIS OW](https://www.iis.net/)
+    * [Run Multiple Websites on the Same Port and IP Address on IIS](http://woshub.com/run-multiple-websites-on-the-same-port-and-ip-address-on-iis/)
+
 * HTTPS setup
   * [SSL/TLS Strong Encryption: How-To for Apache](https://httpd.apache.org/docs/2.4/ssl/ssl\_howto.html)
   * [IIS 10: Create CSR and Install SSL Certificate](https://www.digicert.com/csr-creation-ssl-installation-iis-10.htm)
@@ -315,6 +336,63 @@ online materials for its454
 ### Network firewall
 
 ### Network IDS & IPS
+
+### Network services
+* _concepts_
+  * [Network service](https://en.wikipedia.org/wiki/Network\_service)
+
+
+#### DNS
+* _Concepts_
+  * [Domain Name Service (DNS) on Linux](https://help.ubuntu.com/lts/serverguide/dns.html)
+  * [How To Configure BIND as a Private Network DNS Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-18-04)
+* _Vulnerabilities_
+  * [DNS spoofing](https://en.wikipedia.org/wiki/DNS\_spoofing)
+  * [DNS hijacking](https://en.wikipedia.org/wiki/DNS\_hijacking)
+  * [DNS rebinding](https://en.wikipedia.org/wiki/DNS\_rebinding)
+* _Hardenning_
+  * [Domain Name System Security Extensions](https://en.wikipedia.org/wiki/Domain\_Name\_System\_Security\_Extensions)
+
+#### ICMP
+* _Concepts_
+  * [Internet Control Message Protocol](https://en.wikipedia.org/wiki/Internet\_Control\_Message\_Protocol)
+* _Vulnerabilities_
+  * [Smurf attack](https://en.wikipedia.org/wiki/Smurf\_attack)
+
+#### TCP/UDP/SCTP
+
+* _Hardenning_
+  * S/MIME, SSL/TLS
+
+#### IP
+
+* _Hardenning_
+  * IPsec
+  * VPN
+
+#### ARP/DHCP
+* _Concepts_
+* _Vulnerabilities_
+  * ARP Spoofing
+  * MAC Flooding
+  * Port Stealing
+  * DHCP spoofing/Snooping
+  * Layer 2-based broadcasting, Denial of Service (DoS), MAC cloning
+
+#### Spanning Tree Protocol
+* _Hardenning_
+  * Root Guard
+  * BPDU-Guard
+
+#### Virtual LAN
+
+* _Vulnerabilities_
+  * Switch Spoofing
+  * Double Tagging
+#### Wireless LAN
+* _Hardenning_
+  * WEP
+  * WPA/WPA2
 
 ### SDN
 * _concepts_
