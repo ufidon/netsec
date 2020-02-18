@@ -149,6 +149,7 @@ online materials for its454
   * [FileZilla OW](https://filezilla-project.org/)
   * [Install and configure an FTP server with PowerShell](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
   * [FTP server on Windows 2019](https://www.server-world.info/en/note?os=Windows\_Server\_2019&p=ftp&f=1)
+  * [FTPS - Obsolescent Secure FTP](https://www.ssh.com/ssh/ftp/ftps)
 
 * Shared folder
   * [Create Shared Folders In Windows Server 2016 - Computer Management](https://www.c-sharpcorner.com/article/create-shared-folders-in-windows-server-2016-computer-management/)
