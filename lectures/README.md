@@ -118,6 +118,12 @@ online materials for its454
   * [Install Let’s Encrypt with IIS on Windows Server 2019](https://www.snel.com/support/how-to-install-lets-encrypt-with-iis-on-windows-server-2019/)
   * [IIS : SSL/TLS Settings](https://www.server-world.info/en/note?os=Windows_Server_2019&p=iis&f=5)
 
+* Digital certificate
+  * [Public key certificate](https://en.wikipedia.org/wiki/Public\_key\_certificate)
+  * [Certificate authority](https://en.wikipedia.org/wiki/Certificate\_authority)
+  * [Self-signed multiple-domain SSL certificates](https://fbcs.co.uk/self-signed-multiple-domain-ssl-certificates/)
+  * [The Most Common OpenSSL Commands](https://www.sslshopper.com/article-most-common-openssl-commands.html)
+  * [SEED PKI Lab](https://seedsecuritylabs.org/Labs_16.04/Crypto/Crypto\_PKI/)
 * Web frameworks and applications
   * [Web framework](https://en.wikipedia.org/wiki/Web\_framework)
   * [Comparison of web frameworks](https://en.wikipedia.org/wiki/Comparison\_of\_web\_frameworks)
