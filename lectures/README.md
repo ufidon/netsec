@@ -165,8 +165,17 @@ online materials for its454
 
 * P2P file sharing
   * [Peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer\_file\_sharing)
-  * [qBittorrent](https://www.qbittorrent.org/)
-  * [How to create a private torrent using qBittorrent](https://www.ghacks.net/2019/09/20/how-to-create-a-private-torrent-using-qbittorrent/)
+  * _concepts_
+    * [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
+    * [BitTorrent tracker](https://en.wikipedia.org/wiki/BitTorrent\_tracker)
+    * [Distributed hash table](https://en.wikipedia.org/wiki/Distributed\_hash\_table)
+  * _tools_
+    * [qBittorrent](https://www.qbittorrent.org/)
+    * [mktorrent](http://manpages.ubuntu.com/manpages/bionic/man1/mktorrent\.1\.html)
+  * _install_
+    * [How to Install qBittorrent on Ubuntu 18.04 Desktop or Server](https://www.linuxbabe.com/ubuntu/install-qbittorrent-ubuntu-18-04-desktop-server)
+    * [How to create a private torrent using qBittorrent](https://www.ghacks.net/2019/09/20/how-to-create-a-private-torrent-using-qbittorrent/)
+    * [How to use qBittorrent as a tracker](https://github.com/qbittorrent/qBittorrent/wiki/How-to-use-qBittorrent-as-a-tracker)
 
 ### Communication and collabration services
 * _Overview_
@@ -183,6 +192,10 @@ online materials for its454
   * [hMailServer](https://www.hmailserver.com/)
 * _Open source webmails_
   * [roundcube](https://roundcube.net/)
+* _Install_
+  * [Build Your Own Email Server on Ubuntu: Complete Guide](https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu)
+  * [How To Install and Configure Postfix on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-18-04)
+
 
 * _email security_
   * [Email spam](https://en.wikipedia.org/wiki/Email\_spam)
