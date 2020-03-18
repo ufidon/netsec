@@ -1,5 +1,6 @@
 # its454
-Course materials and demos for labs
+Course materials and demos for labs.
+
 Read the first reference below to understand the configuration files.
 
 ## Lab08: e-Mail servers
@@ -82,10 +83,14 @@ sudo systemctl status dovecot
 # 3. Use ThunderBird to access emails
 # 3.1 Add ca.crt
 # Run ThunderBird, cancel the initial account adding
-# From menu: Edit -> Preferences, in the opened tab, choose Advanced -> Certificates, click button 'Manage Cerificates', in the pop-up dialog, choose Authorities, click button Import to import ca.crt
+# From menu: Edit -> Preferences, in the opened tab, choose Advanced -> Certificates,
+# click button 'Manage Cerificates', in the pop-up dialog, choose Authorities, 
+# click button Import to import ca.crt
 
 # 3.2 Add email accounts
-# From menu: Edit -> Account Settings, in the pop-up dialog, at bottom-left, click button Account Actions, add the following two email accounts, fill the following information respectively, click continue, then click done:
+# From menu: Edit -> Account Settings, in the pop-up dialog, at bottom-left, 
+# click button Account Actions, add the following two email accounts, 
+# fill the following information respectively, click continue, then click done:
 # Account 1:
 # Your name: Administrator
 # Email address: admin@imail.its454
