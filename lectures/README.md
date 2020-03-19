@@ -207,14 +207,15 @@ online materials for its454
   * [Email spoofing](https://en.wikipedia.org/wiki/Email_spoofing)
   * [Email bomb](https://en.wikipedia.org/wiki/Email\_bomb)
   * [S/MIME](https://en.wikipedia.org/wiki/S/MIME)
+  * [SSL, TLS, and STARTTLS](https://www.fastmail.com/help/technical/ssltlsstarttls.html)
+  * [Opportunistic TLS, StartSSL](https://en.wikipedia.org/wiki/Opportunistic\_TLS)
+  * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport\_Layer\_Security)
   * [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty\_Good\_Privacy)
   * [GNU Privacy Guard](https://en.wikipedia.org/wiki/GNU\_Privacy\_Guard)
   * [Email encryption](https://en.wikipedia.org/wiki/Email\_encryption)
   * [OpenPGP](https://www.openpgp.org/)
   * [Mailvelope](https://www.mailvelope.com/en/)
-  * [SSL, TLS, and STARTTLS](https://www.fastmail.com/help/technical/ssltlsstarttls.html)
-  * [Opportunistic TLS, StartSSL](https://en.wikipedia.org/wiki/Opportunistic\_TLS)
-  * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport\_Layer\_Security)
+
 
 ### User management
 * _User authentication and authorization_
