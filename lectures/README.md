@@ -193,9 +193,14 @@ online materials for its454
 * _Open source webmails_
   * [roundcube](https://roundcube.net/)
 * _Install_
-  * [Build Your Own Email Server on Ubuntu: Complete Guide](https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu)
   * [How To Install and Configure Postfix on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-18-04)
-
+  * [How to Set Up an Email Server with Postfix, Dovecot and Roundcube on Ubuntu 18.04](https://www.tekfansworld.com/how-to-set-up-an-email-server-with-postfix-dovecot-and-roundcube-on-ubuntu-18-04.html)
+  * [A Mailserver on Ubuntu 18.04: Postfix, Dovecot, MySQL](https://www.exratione.com/2019/02/a-mailserver-on-ubuntu-18-04-postfix-dovecot-mysql/)
+  * [How to Configure Postfix with Webmail on Ubuntu 18.04](https://linoxide.com/mail/configure-postfix-webmail-ubuntu/)
+  * [Emails](https://easyengine.io/tutorials/mail/)
+  * [Set up a mail server with PostfixAdmin](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
+  * [Postfix Complete Virtual Mail System Howto](https://help.ubuntu.com/community/PostfixCompleteVirtualMailSystemHowto)
+  * [Build Your Own Email Server on Ubuntu: Complete Guide](https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu)
 
 * _email security_
   * [Email spam](https://en.wikipedia.org/wiki/Email\_spam)
