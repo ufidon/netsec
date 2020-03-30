@@ -9,6 +9,7 @@ _Description_
 ```c
 Setup and configure Postfix/Dovecot servers on Ubuntu LTS.
 ```
+The configuration files are provided for your reference.
 
 _Steps_
 
