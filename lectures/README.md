@@ -201,6 +201,9 @@ online materials for its454
   * [Set up a mail server with PostfixAdmin](https://linuxize.com/post/set-up-an-email-server-with-postfixadmin/)
   * [Postfix Complete Virtual Mail System Howto](https://help.ubuntu.com/community/PostfixCompleteVirtualMailSystemHowto)
   * [Build Your Own Email Server on Ubuntu: Complete Guide](https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu)
+  * [An In-Depth Guide to POP3, IMAP, and SMTP for Beginners](https://www.hostinger.com/tutorials/email/pop3-imap-smtp-protocols-explained-ports)
+  * [Testing a POP3 server via telnet or OpenSSL](https://blog.yimingliu.com/2009/01/23/testing-a-pop3-server-via-telnet-or-openssl/)
+  * [How To Manually Test Connectivity To IMAP/POP/SMTP Services](https://serverguy.com/kb/manually-test-connectivity-imap-pop-smtp-services/)
 
 * _email security_
   * [Email spam](https://en.wikipedia.org/wiki/Email\_spam)
