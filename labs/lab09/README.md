@@ -21,11 +21,19 @@ Follow the demo videos IN ODDER:
 2. Install and configure official Roundcube on Ubuntu 18.04 LTS
 3. Install and configure official SquirrelMail on Ubuntu 18.04 LTS
 
+or 
+
+1. Install only SquirrelMail on Ubuntu 18.04 LTS
+
 Demo video:
 * [Lab08 :Install and configure Postfix/Dovecot/Thunderbird on Ubuntu 18.04LTS](https://youtu.be/OocUNzBZCVI)
 * [Lab09 Step 1: Install and configure Roundcube from Ubuntu 18.04 LTS repository](https://youtu.be/ySO-De6UeX0)
 * [Lab09 Step 2: Install and configure official Roundcube on Ubuntu 18.04 LTS](https://youtu.be/4tGJynqHlSw)
 * [Lab09 Step 3: Install and configure official SquirrelMail on Ubuntu 18.04 LTS](https://youtu.be/f7-TlBkenlk)
+
+or
+
+* [Lab09: Install only SquirrelMail on Ubuntu 18.04 LTS](https://youtu.be/6DAfYbiOxW0)
 
 _References_
   * [How to Set Up an Email Server with Postfix, Dovecot and Roundcube on Ubuntu 18.04](https://www.tekfansworld.com/how-to-set-up-an-email-server-with-postfix-dovecot-and-roundcube-on-ubuntu-18-04.html)
