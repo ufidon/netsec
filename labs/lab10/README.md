@@ -22,5 +22,7 @@ Demo video:
 
 _References_
 * [Ubuntu Package Management](https://help.ubuntu.com/lts/serverguide/package-management.html)
+* [Geany - The Flyweight IDE](https://www.geany.org/)
 * [Tasksel](https://help.ubuntu.com/community/Tasksel)
 * [How can I create a phpinfo.php page?](https://mediatemple.net/community/products/dv/204643880/how-can-i-create-a-phpinfo.php-page)
+* [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804)
