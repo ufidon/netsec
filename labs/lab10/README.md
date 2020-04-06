@@ -31,3 +31,4 @@ _References_
 * [Tasksel](https://help.ubuntu.com/community/Tasksel)
 * [How can I create a phpinfo.php page?](https://mediatemple.net/community/products/dv/204643880/how-can-i-create-a-phpinfo.php-page)
 * [Ubuntu 18.04 Package Manager - Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1804)
+* [List keys used by apt](http://manpages.ubuntu.com/manpages/bionic/man8/apt-key.8.html)
