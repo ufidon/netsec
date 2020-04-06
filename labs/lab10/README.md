@@ -16,13 +16,14 @@ _Steps_
 2. Practice "Ubuntu Package Management Part II"
 3. Practice "Install software in Ubuntu"
 
+You may redo Lab08/09 if you did not succeed following [4. Install Postfix/Dovecot/SquirrelMail on Ubuntu 18.04](https://youtu.be/YCR9aIF6BvQ)
 
 Demo video:
 
-* [Ubuntu Package Management Part I](https://youtu.be/jc5_PMJV3LA)
-* [Ubuntu Package Management Part II](https://youtu.be/pmdwjdUdGqA)
-* [Install software in Ubuntu](https://youtu.be/Epuk-a0CT9I)
-
+* [1. Ubuntu Package Management Part I](https://youtu.be/jc5_PMJV3LA)
+* [2. Ubuntu Package Management Part II](https://youtu.be/pmdwjdUdGqA)
+* [3. Install software in Ubuntu](https://youtu.be/Epuk-a0CT9I)
+* [4. Install Postfix/Dovecot/SquirrelMail on Ubuntu 18.04](https://youtu.be/YCR9aIF6BvQ)
 
 _References_
 
