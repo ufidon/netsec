@@ -7,7 +7,7 @@ Course materials and demos for labs.
 
 _Description_
 
-Practice how to create/modify/delete/secure users on Ubuntu.
+Practice how to create/modify/delete/secure users on Ubuntu following the demo video.
 
 
 _Steps_
@@ -18,7 +18,7 @@ _Steps_
 
 
 Demo video:
-
+* [user management in Ubuntu 18.04](https://youtu.be/Ff8Auw3PnJI)
 
 _References_
 
