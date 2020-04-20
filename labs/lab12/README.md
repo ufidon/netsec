@@ -14,12 +14,12 @@ _Steps_
 
 1. Configure network topology
 2. Setup and configure OpenVPN server on Ubuntu
-3. Setup and configure OpenVPN client on SEED
-4. Setup and configure OpenVPN client on Windows
+3. Setup and configure OpenVPN client on Windows
+4. Setup and configure OpenVPN client on EXTERNAL SEED (Optional, you may follow the reference to complete this). You need another SEED serves as an external SEED, such as SEED2.
 
 
 Demo video:
-* []()
+* [Setup and configure a vpn with openvpn on ubuntu 18 04 and windows server 201](https://youtu.be/CLb9ymU8l0A)
 
 _References_
 * [How To Set Up an OpenVPN Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
