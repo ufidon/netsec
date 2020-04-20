@@ -398,6 +398,24 @@ online materials for its454
 * _Hardenning_
   * IPsec
   * VPN
+    * _concepts_
+      * [Virtual private network](https://en.wikipedia.org/wiki/Virtual\_private\_network)
+      * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling\_protocol)
+      * [SOCKS](https://en.wikipedia.org/wiki/SOCKS)
+      * [Proxy server](https://en.wikipedia.org/wiki/Proxy\_server)
+      * [Network topology](https://en.wikipedia.org/wiki/Network\_topology)
+      * [OpenVPN](https://en.wikipedia.org/wiki/OpenVPN)
+      * [SoftEther VPN](https://en.wikipedia.org/wiki/SoftEther\_VPN)
+      * [Private network](https://en.wikipedia.org/wiki/Private\_network)
+      * [Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless\_Inter-Domain\_Routing)
+      * [VPN blocking](https://en.wikipedia.org/wiki/VPN\_blocking)
+    * _practice_
+      * [OpenVPN on Ubuntu](https://help.ubuntu.com/lts/serverguide/openvpn.html)
+      * [OpenVPN OW](https://openvpn.net/)
+      * [OpenVPN Quick Start Guide](https://openvpn.net/quick-start-guide/)
+      * [OpenVPN 2x How to](https://openvpn.net/community-resources/how-to/)
+      * [OpenVPN Cookbook](https://github.com/PacktPublishing/OpenVPN-Cookbook-Second-Edition)
+      * [How To Set Up an OpenVPN Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
 
 #### ARP/DHCP
 * _Concepts_
