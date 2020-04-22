@@ -19,7 +19,8 @@ _Steps_
 
 
 Demo video:
-* [Setup and configure a vpn with openvpn on ubuntu 18 04 and windows server 201](https://youtu.be/CLb9ymU8l0A)
+* [Setup and configure a vpn with openvpn on ubuntu 18.04 and windows server 2019](https://youtu.be/CLb9ymU8l0A)
+* [Setup vpnclient on Ubuntu 16.04](https://youtu.be/FB46aqxEkBI)
 
 _References_
 * [How To Set Up an OpenVPN Server on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)
