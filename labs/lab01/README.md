@@ -1,46 +1,36 @@
-# its454
-Course materials and demos for labs
+# its454 lectures
 
+course materials and references for its454
 
-## Lab01: Setup lab environment
-**Tasks**
+## Lab01: Setup the lab environment
 
-_Description_
-```c
-In this lab,  setup three virtual machines and put them in a NAT network of VirtualBox:
-Windows server and Ubuntu, both use the latest stable versions; as well as SEED VM 16.04.
-```
+__Description__
 
-_Steps_
+Setup the lab environment and get familiar with the SEED VM. You need a USB 3.0+ thumb drive or USB 3.0+ SSD with at least 256GB or install on your own laptop with free space of at least 256GB.
 
-1. Create VMS, NAT network, download ISOs and softwares
-2. Setup Windows server, chrome browser
-3. Setup Ubuntu & software
+* *Rule of thumb to choose software: always choose the latest and STABLE version*
+* Download and install [VirtualBox](https://www.virtualbox.org/) and the extension pack
+* Download the [SEED VM](https://seedsecuritylabs.org/) form its official website
+* Choose an installation approach and follow the corresponding [SEED manuals](https://seedsecuritylabs.org/labsetup.html) to install a SEED environment.
+* Here we choose [Installing SEED VM](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md) on a local computer.
+* Browse and play with the integrated software
+* Practice the basic Linux commands on the [Linux command memento](https://bootlin.com/doc/legacy/command-line/)
+* *If SEED VMs can NOT adjust to full screen automatically, it can be changed manually inside the VM. System Settings -> Display -> Resolution (change it what you want.)*
 
-```bash
-# Inside Ubuntu, open a terminal, run the following commands
-sudo apt update
-sudo apt upgrade
-sudo apt install terminator build-essential git cmake mono-complete
-sudo apt install apt-transport-https dirmngr
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys  3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main"  | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
-sudo apt update
-sudo apt-get install monodevelop openjdk-11-jdk
-```
-4. download and install SEED VM 16.04
+	
+__Report__
 
-**Where are the OSes and tools?**
-  * [VirtualBox 6](https://www.virtualbox.org/)
-  * [Ubuntu 18.04LTS](https://ubuntu-mate.org/)
-  * [Windows server](https://www.microsoft.com/en-us/cloud-platform/windows-server)
-  * [SEED VM](https://seedsecuritylabs.org/)
+Write a report about:
 
-5. Verify all VMs can ping each other
+* (20%)the process you setup the lab environment (VM summary is sufficient)
+* (50%)the process you test the NAT network
+* (30%)the process you setup and test the shared folder
 
-**Youtube Videos** 
-  * [Create empty virtual machines for Ubuntu & Windows Server 2019 in VirtualBox 6](https://youtu.be/3PbnBVNWXpk)
-  * [Install Ubuntu 18.04LTS in VirtualBox 6](https://youtu.be/3BHsizTRUg0)
-  * [Install Windows Server 2019 in VirtualBox 6](https://youtu.be/fQZFoSTSuPM)
-  * [Create SEED Ubuntu 16.04 virtual machines and NAT network](https://youtu.be/pwSlVJSCpu0)
-  * [How to run VirtualBox virtual machines on other computers with VirtualBox?](https://youtu.be/Ps30RJ1MzgQ)
+__Demo video__
+* [How to setup SEED 2.0 lab environment?](https://youtu.be/ejydR40c_Gw)
+
+__References__
+* [VirtualBox](https://www.virtualbox.org/)
+* [SEED security labs](https://seedsecuritylabs.org/)
+* [Hands on security](https://www.handsonsecurity.net/)
+* [bootlin](https://bootlin.com)
