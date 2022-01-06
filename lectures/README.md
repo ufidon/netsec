@@ -9,6 +9,7 @@ Tentative topics [Computer & Internet Security: A Hands-on Approach](https://www
   * DNS and Attacks (Ch18)
   * Virtual Private Network (Ch19)
   * The Heartbleed Bug and Attack (Ch20)
+  * Border Gateway Protocol (BGP) and Attacks (Ch27)
 * Module02: Hardware Security
   * Meltdown Attack (Ch13)
   * Spectre Attack (Ch14)

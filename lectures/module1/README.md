@@ -10,6 +10,7 @@ All the slides are backupped from [Computer & Internet Security: A Hands-on Appr
 * 1.18. [DNS and Attacks](./slides/18_DNS_Attacks.pdf)
 * 1.19. [Virtual Private Network](./slides/19_VPN.pdf)
 * 1.20. [The Heartbleed Bug and Attack](./slides/20_Heartbleed.pdf)
+* 1.27. [Border Gateway Protocol (BGP) and Attacks](./slides/27_BGP_Du.pdf)
 
 ### References
 * [Computer & Internet Security: A Hands-on Approach](https://www.handsonsecurity.net)
