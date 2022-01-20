@@ -28,8 +28,7 @@ Write a report about the process you complete the tasks in the description, key 
 
 
 **3. Demo video**
-* [TODO]()
-
+* [SEED 2.0 Packet Sniffing and Spoofing Lab - Scapy](https://youtu.be/Qh9BxoCB_Dc)
 
 **4. References**
 * [SEED 2.0 Packet Sniffing and Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/)
