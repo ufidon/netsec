@@ -2,8 +2,7 @@
 
 # Task 1.1 ----------------------------------------------------
 #!/usr/bin/env python3
-from sys import flags
-from tabnanny import verbose
+
 from scapy.all import IP, TCP, send
 from ipaddress import IPv4Address
 from random import getrandbits
