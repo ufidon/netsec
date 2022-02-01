@@ -30,7 +30,7 @@ Write a report about the process you complete the tasks in the description, key 
 
 
 **3. Demo video**
-* [SEED 2.0 TCP Attacks Lab - Part II]()
+* [SEED 2.0 TCP Attacks Lab - Part II](https://youtu.be/ZKY-iGrkKZ8)
 
 **4. References**
 * This lab is revised from [SEED 2.0 TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/)
@@ -40,3 +40,7 @@ Write a report about the process you complete the tasks in the description, key 
   * [cheat sheet](https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf)
 * [PROGRAMMING WITH PCAP](https://www.tcpdump.org/pcap.html)
   * [Programming with Libcap - Sniffing the network from our own applicaiton by Luis Martin Garcia.](http://recursos.aldabaknocking.com/libpcapHakin9LuisMartinGarcia.pdf)
+* [Killing tcp connection in linux](https://unix.stackexchange.com/questions/71940/killing-tcp-connection-in-linux/80539)
+  * [What are CLOSE_WAIT and TIME_WAIT states?](https://superuser.com/questions/173535/what-are-close-wait-and-time-wait-states)
+* [Extracting TCP data with Scapy](https://stackoverflow.com/questions/65370305/extracting-tcp-data-with-scapy)
+  * [ scapy get an error TCP payload length #707 ](https://github.com/secdev/scapy/issues/707)
