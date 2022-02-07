@@ -1,4 +1,4 @@
-# Sniffing and Spoofing Attacks
+# Attacks on the TCP protocol
 
 │   README.md                
     checksum.c
