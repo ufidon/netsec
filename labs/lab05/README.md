@@ -10,18 +10,18 @@ This lab is revised from [SEED 2.0 Firewall Exploration Lab](https://seedsecurit
 
 Complete Task 1-2 described in [SEED 2.0 Firewall Exploration Lab](./refs/Firewall.pdf):
 
-- [x] Task 1: Implementing a Simple Firewall
-  - [x] Task 1.A: Implement a Simple Kernel Module
-  - [x] Task 1.B: Implement a Simple Firewall Using Netfilter
-    - [x] 1. Compile the sample code using the provided Makefile
-    - [x] 2. Hook the printInfo function to all of the netfilter hooks
-    - [x] 3. Implement two more hooks to achieve the following:
-      - [x] (1) preventing other computers to ping the VM
-      - [x] (2) preventing other computers to telnet into the VM
-- [x] Task 2: Experimenting with Stateless Firewall Rules
-  - [x] Task 2.A: Protecting the Router
-  - [x] Task 2.B: Protecting the Internal Network
-  - [x] Task 2.C: Protecting Internal Servers
+- [x] Task 1(70%): Implementing a Simple Firewall
+  - [x] Task 1.A(10%): Implement a Simple Kernel Module
+  - [x] Task 1.B(60%, each 20%): Implement a Simple Firewall Using Netfilter
+    - [x] 1.(20%) Compile the sample code using the provided Makefile
+    - [x] 2.(20%) Hook the printInfo function to all of the netfilter hooks
+    - [x] 3.(20%, each 10%) Implement two more hooks to achieve the following:
+      - [x] (1, 10%) preventing other computers to ping the VM
+      - [x] (2, 10%) preventing other computers to telnet into the VM
+- [x] Task 2 (30%, each 10%): Experimenting with Stateless Firewall Rules
+  - [x] Task 2.A(10%): Protecting the Router
+  - [x] Task 2.B(10%): Protecting the Internal Network
+  - [x] Task 2.C(10%): Protecting Internal Servers
 - [ ] Task 3: Connection Tracking and Stateful Firewall
   - [ ] Task 3.A: Experiment with the Connection Tracking
     - [ ] ICMP experiment:

@@ -22,16 +22,16 @@ Complete Task 3-5 described in [SEED 2.0 Firewall Exploration Lab](../lab05/refs
   - [ ] Task 2.A: Protecting the Router
   - [ ] Task 2.B: Protecting the Internal Network
   - [ ] Task 2.C: Protecting Internal Servers
-- [x] Task 3: Connection Tracking and Stateful Firewall
-  - [x] Task 3.A: Experiment with the Connection Tracking
-    - [x] ICMP experiment:
+- [x] Task 3 (40%): Connection Tracking and Stateful Firewall
+  - [x] Task 3.A (30%, each 10%): Experiment with the Connection Tracking
+    - [x] ICMP experiment
     - [x] UDP experiment
     - [x] TCP experiment
-  - [x] Task 3.B: Setting Up a Stateful Firewall
-- [x] Task 4: Limiting Network Traffic
-- [x] Task 5: Load Balancing
-  - [x] Using the nth mode (round-robin)
-  - [x] Using the random mode
+  - [x] Task 3.B (10%): Setting Up a Stateful Firewall
+- [x] Task 4 (30%): Limiting Network Traffic
+- [x] Task 5 (30%, each 15%): Load Balancing
+  - [x] (15%) Using the nth mode (round-robin)
+  - [x] (15%) Using the random mode
 
 
 **2. Report**
