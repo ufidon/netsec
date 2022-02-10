@@ -40,7 +40,7 @@ Write a report about the process you complete the tasks in the description, key 
 
 
 **3. Demo video**
-* [SEED 2.0 Firewall Exploration Lab - Part I]()
+* [SEED 2.0 Firewall Exploration Lab - Part I](https://youtu.be/kUytcBHaLHs)
 
 **4. References**
 * This lab is revised from [SEED 2.0 Firewall Exploration Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/)
