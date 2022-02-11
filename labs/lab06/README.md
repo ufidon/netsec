@@ -40,7 +40,7 @@ Write a report about the process you complete the tasks in the description, key 
 
 
 **3. Demo video**
-* [SEED 2.0 Firewall Exploration Lab - Part II]()
+* [SEED 2.0 Firewall Exploration Lab - Part II](https://youtu.be/awYkfbUNzzc)
 
 **4. References**
 * This lab is revised from [SEED 2.0 Firewall Exploration Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/)
@@ -54,3 +54,10 @@ Write a report about the process you complete the tasks in the description, key 
   * [iptables-cheatsheet](https://gist.github.com/mcastelino/c38e71eb0809d1427a6650d843c42ac2)
 * [iptables/ip6tables — administration tool for IPv4/IPv6 packet filtering and NAT](http://manpages.ubuntu.com/manpages/focal/man8/iptables.8.html)
 * [Documentation about the netfilter/iptables project](https://www.netfilter.org/documentation/)
+* [SSH Tunnel - Local and Remote Port Forwarding Explained With Examples](https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html)
+  * [SSH Port Forwarding Example](https://www.ssh.com/ssh/tunneling/example)
+  * [SSH/OpenSSH/PortForwarding](https://help.ubuntu.com/community/SSH/OpenSSH/PortForwarding)
+  * [A Guide to SSH Port Forwarding/Tunnelling](https://www.booleanworld.com/guide-ssh-port-forwarding-tunnelling/)
+* [Proxy server](https://en.wikipedia.org/wiki/Proxy_server)
+  * [SOCKS](https://en.wikipedia.org/wiki/SOCKS)
+  * [Squid: Optimising Web Delivery](http://www.squid-cache.org/)
