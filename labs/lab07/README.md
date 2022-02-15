@@ -58,3 +58,17 @@ Write a report about the process you complete the tasks in the description, key 
 
 **4. References**
 * This lab is revised from [SEED 2.0 VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/)
+* [Socket Programming in Python](https://realpython.com/python-sockets/)
+  * [Network Programming with Python](https://www.studytonight.com/network-programming-in-python/)
+* [Python Module Index](https://docs.python.org/3/py-modindex.html)
+  * [socket — Low-level networking interface](https://docs.python.org/3/library/socket.html)
+  * [fcntl — The fcntl and ioctl system calls](https://docs.python.org/3/library/fcntl.html)
+  * [os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
+  * [struct — Interpret bytes as packed binary data](https://docs.python.org/3/library/struct.html)
+  * [time — Time access and conversions](https://docs.python.org/3/library/time.html)
+  * [select — Waiting for I/O completion](https://docs.python.org/3/library/select.html)
+    * [selectors — High-level I/O multiplexing](https://docs.python.org/3/library/selectors.html)
+* [BPF filter](https://www.kernel.org/doc/html/latest/networking/filter.html)
+  * [cheat sheet](https://www.gigamon.com/content/dam/resource-library/english/guide---cookbook/gu-bpf-reference-guide-gigamon-insight.pdf)
+* [scapy](https://scapy.net/)
+  * [cheat sheet](https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf)
