@@ -44,8 +44,13 @@ while True:
     if fd is sock:
       data, (ip,port) = sock.recvfrom(2048)
       pkt = IP(data)
+      print("From socket ==>: {} --> {}".format(pkt.src, pkt.dst))
+      # ... (code needs to be added by students) ...
+    if fd is tun:
+      packet = os.read(tun,2048)
+      pkt = IP(packet)
       print("From tun ==>: {} --> {}".format(pkt.src, pkt.dst))
-      ... (code needs to be added by students) ...
+      # ... (code needs to be added by students) ...
 
 # Task 9: Experiment with the TAP Interface
 tap = os.open("/dev/net/tun", os.O_RDWR)      

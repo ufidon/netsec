@@ -1,6 +1,5 @@
-#!/usr/bin/eve python3
+#!/usr/bin/env python3
 
-import imp
 from scapy.all import *
 
 IP_A = '0.0.0.0'
