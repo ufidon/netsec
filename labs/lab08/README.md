@@ -37,14 +37,12 @@ Complete Task 7-9 described in [SEED 2.0 VPN Tunneling Lab](../lab07/refs/VPNTun
 - [ ] Task 6: Tunnel-Breaking Experiment
   - [ ]  setup
   - [ ]  Testing
-- [x]  (30%) Task 7: Routing Experiment on Host V
-  - [x]  (10%) setup
+- [x]  (10%) Task 7: Routing Experiment on Host V
+- [x]  (40%) Task 8: VPN Between Private Networks
+  - [x]  (20%) setup
   - [x]  (20%) Testing
-- [x]  (30%) Task 8: VPN Between Private Networks
-  - [x]  (15%) setup
-  - [x]  (15%) Testing
-- [x]   (40%) Task 9: Experiment with the TAP Interface
-  - [x]  (15%) setup
+- [x]   (50%) Task 9: Experiment with the TAP Interface
+  - [x]  (25%) setup
   - [x]  (25%) Testing
 
 
