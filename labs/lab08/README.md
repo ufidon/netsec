@@ -54,7 +54,7 @@ Write a report about the process you complete the tasks in the description, key 
 
 
 **3. Demo video**
-* [SEED 2.0 VPN Tunneling Lab - Part II]()
+* [SEED 2.0 VPN Tunneling Lab - Part II](https://youtu.be/xYH-2c6DehI)
 
 **4. References**
 * This lab is revised from [SEED 2.0 VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/)
