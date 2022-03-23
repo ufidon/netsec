@@ -28,7 +28,8 @@ Write a report about the process you complete the tasks in the description, key 
 
 **3. Demo video**
 * [SEED 2.0 Local DNS Attack Lab](https://youtu.be/7Phz7s6XES0)
-
+* Optional video:
+  * [SEED 2.0 DNS In A Box Lab](https://youtu.be/JyMxhNowBCk)
 **4. References**
 * This lab is revised from [SEED 2.0 Local DNS Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)
 * [tc - show / manipulate traffic control settings](https://man7.org/linux/man-pages/man8/tc.8.html)
