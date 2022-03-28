@@ -41,3 +41,4 @@ Write a report about the process you complete the tasks in the description, key 
   * [named - Internet domain name server](http://manpages.ubuntu.com/manpages/focal/man8/named.8.html)
     * [rndc - name server control utility](http://manpages.ubuntu.com/manpages/focal/en/man8/rndc.8.html)
   * [delv - DNS lookup and validation utility](http://manpages.ubuntu.com/manpages/focal/man1/delv.1.html)
+  * [Wireshark imports Hex Dump](https://www.wireshark.org/docs/wsug_html_chunked/ChIOImportSection.html)
