@@ -44,7 +44,7 @@ example.com.		690206	NS	ns.attacker32.com.
 ```
 * If you rarely get lucky with attack.c, try using attack-fast.c. Still unlucky, restart the local DNS server container, still unlucky, restart all containers...
 * TRY INTERMITTENTLY!
-* A stable and reliable attack is still not found, please let me know you you found one.
+* A stable and reliable attack is still not found, please let me know if you found one.
 
 **2. Report**
 

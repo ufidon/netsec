@@ -31,6 +31,7 @@ Write a report about the process you complete the tasks in the description, key 
 **4. References**
 * This lab is revised from [SEED 2.0 DNS Rebinding Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Rebinding/)
 * [tc - show / manipulate traffic control settings](https://man7.org/linux/man-pages/man8/tc.8.html)
+* [Reason: CORS header 'Access-Control-Allow-Origin' missing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin)
 * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
   * [domains](https://support.google.com/a/topic/3540977)
   * [Online nslookup](https://www.nslookup.io/)
