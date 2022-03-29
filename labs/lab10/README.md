@@ -19,6 +19,31 @@ Complete all tasks described in [SEED 2.0 The Kaminsky Attack Lab](./refs/DNSRem
   - [x]  Task 4: Launch the Kaminsky attack
   - [x]  Task 5: Result verification
 
+**Note**
+* If you see the following cache poisoning result, the attack succeeded COMPLETELY:
+
+```bash
+rndc dumpdb -cache && grep attack /var/cache/bind/dump.db 
+
+ns.attacker32.com.	615597	\-AAAA	;-$NXRRSET
+; attacker32.com. SOA ns.attacker32.com. admin.attacker32.com. 2008111001 28800 7200 2419200 86400
+example.com.		777597	NS	ns.attacker32.com.
+
+```
+
+* If you see the following cache poisoning result, the attack succeeded PARTLY. In this case, please restart the local DNS server container: docker container restart local-dns-server-10.9.0.53
+
+```bash
+rndc dumpdb -cache && grep attack /var/cache/bind/dump.db
+
+attacker32.com.		777096	NS	ns13.domaincontrol.com.
+ns.attacker32.com.	604896	\-ANY	;-$NXDOMAIN
+; attacker32.com. SOA ns13.domaincontrol.com. dns.jomax.net. 2020062300 28800 7200 604800 600
+example.com.		690206	NS	ns.attacker32.com.
+
+```
+* If you rarely get lucky with attack.c, try using attack-fast.c. Still unlucky, restart the local DNS server container, still unlucky, restart all containers...
+* A stable and reliable attack is still not found, please let me know you you found one.
 
 **2. Report**
 
