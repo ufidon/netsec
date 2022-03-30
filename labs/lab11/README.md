@@ -26,7 +26,7 @@ Write a report about the process you complete the tasks in the description, key 
 
 
 **3. Demo video**
-* [SEED 2.0 DNS Rebinding Attack Lab]()
+* [SEED 2.0 DNS Rebinding Attack Lab](https://youtu.be/hFw6uPlqN5E)
 
 **4. References**
 * This lab is revised from [SEED 2.0 DNS Rebinding Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Rebinding/)
