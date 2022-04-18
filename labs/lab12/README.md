@@ -21,7 +21,7 @@ Complete only **task 5** described in [SEED 2.0 BGP Exploration and Attack Lab](
   - [ ]  Task 2.c: Configuring AS-5
 - [ ]  Task 3: Path Selection
   - [ ]  Task 3.a.
-  -  Task 3.b.
+  - [ ]  Task 3.b.
 - [ ] Task 4: IP Anycast
 - [x] (100%) Task 5: BGP Prefix Attack
   - [x] (30%) Task 5.a. Launching the Prefix Hijacking Attack from AS-161
