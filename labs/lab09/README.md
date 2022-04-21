@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## SEED 2.0 Local DNS Attack Lab
+## Lab09: SEED 2.0 Local DNS Attack Lab
 
 This lab is revised from [SEED 2.0 Local DNS Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Local/)
 

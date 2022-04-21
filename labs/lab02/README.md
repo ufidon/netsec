@@ -2,6 +2,8 @@
 
 course materials and references for its454
 
+## Lab02: SEED 2.0 Packet Sniffing and Spoofing Lab
+
 This lab is revised from [SEED 2.0 Packet Sniffing and Spoofing Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Sniffing_Spoofing/)
 
 **1. Tasks to be complete:**

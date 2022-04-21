@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## SEED 2.0 TCP Attacks Lab - Part II
+## Lab04: SEED 2.0 TCP Attacks Lab - Part II
 
 This lab is revised from [SEED 2.0 TCP Attacks Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/)
 

@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## SEED 2.0 VPN Tunneling Lab - Part II
+## Lab08: SEED 2.0 VPN Tunneling Lab - Part II
 
 This lab is revised from [SEED 2.0 VPN Tunneling Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/VPN_Tunnel/)
 

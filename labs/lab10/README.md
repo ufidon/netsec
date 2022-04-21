@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## SEED 2.0 The Kaminsky Attack Lab
+## Lab10: SEED 2.0 The Kaminsky Attack Lab
 
 This lab is revised from [SEED 2.0 The Kaminsky Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Remote/)
 

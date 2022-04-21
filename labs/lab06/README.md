@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## SEED 2.0 Firewall Exploration Lab - Part II
+## Lab06: SEED 2.0 Firewall Exploration Lab - Part II
 
 This lab is revised from [SEED 2.0 Firewall Exploration Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/)
 

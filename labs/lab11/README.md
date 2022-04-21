@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## SEED 2.0 DNS Rebinding Attack Lab
+## Lab11: SEED 2.0 DNS Rebinding Attack Lab
 
 This lab is revised from [SEED 2.0 DNS Rebinding Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/DNS/DNS_Rebinding/)
 

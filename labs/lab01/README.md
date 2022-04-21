@@ -2,7 +2,7 @@
 
 course materials and references for its454
 
-## Lab01: Setup the lab environment
+## Lab01: Setup SEED lab 2.0 environment
 
 __Description__
 
